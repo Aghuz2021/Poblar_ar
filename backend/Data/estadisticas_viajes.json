@@ -1,0 +1,28 @@
+{
+    "por_transporte": {
+        "Colectivo": {
+            "promedio": 2514670.61,
+            "mediana": 2572385.0,
+            "minimo": 229813,
+            "maximo": 4114665,
+            "conteo": 2391,
+            "total_acumulado": 6012577421
+        },
+        "Subte": {
+            "promedio": 262532.16,
+            "mediana": 254733.0,
+            "minimo": 1,
+            "maximo": 706371,
+            "conteo": 2391,
+            "total_acumulado": 627714389
+        },
+        "Tren": {
+            "promedio": 454666.99,
+            "mediana": 484115.0,
+            "minimo": 90,
+            "maximo": 900832,
+            "conteo": 2391,
+            "total_acumulado": 1087108764
+        }
+    }
+}
