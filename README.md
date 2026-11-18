@@ -1,4 +1,13 @@
 # Poblar-Ar Análisis Demográfico de la República Argentina 
+<div align="center">
+
+<img src="img/logo-poblar-ar.png" alt="Logo Poblar-AR" width="500">
+
+# **Poblar-AR**
+
+### Análisis y visualización de datos demográficos de Argentina
+
+</div>
 
 ## **Descripción del proyecto**
 
