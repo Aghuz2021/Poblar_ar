@@ -32,3 +32,17 @@ Posteriormente, los datos obtenidos fueron organizados y estructurados en format
 - **Herramienta de extracción:** Redatam.
 - **Cobertura geográfica:** República Argentina.
 
+## **Estructura del proyecto**
+```text
+Poblar-Ar/
+│
+├── Conexion/          # Módulos encargados de la conexión y carga segura de datos
+├── Data/              # Archivos de datos y fuentes CSV 
+├── Filtros/           # Funciones y lógica para el filtrado y procesamiento de datos
+├── notebooks/         # Jupyter Notebooks para análisis exploratorio y pruebas
+├── .gitattributes     # Configuración de control de versiones Git
+├── .gitignore         # Archivos y directorios ignorados por Git
+├── requirements.txt   # Dependencias y librerías necesarias de Python
+├── Logotipo poblar-AR con bandera argentina.png  # Imagen del logotipo oficial
+└── README.md          # Documentación principal del repositorio
+
