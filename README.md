@@ -45,6 +45,7 @@ python -m venv .venv
 # Mac/Linux:             source .venv/bin/activate
 
 pip install -r requirements.txt
+```
 
 ## **Estructura del proyecto**
 ```text
@@ -59,6 +60,4 @@ Poblar-Ar/
 ├── requirements.txt   # Dependencias y librerías necesarias de Python
 ├── Logotipo poblar-AR con bandera argentina.png  # Imagen del logotipo oficial
 └── README.md          # Documentación principal del repositorio
-
-
 ```
