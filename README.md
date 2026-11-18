@@ -32,6 +32,20 @@ Posteriormente, los datos obtenidos fueron organizados y estructurados en format
 - **Herramienta de extracción:** Redatam.
 - **Cobertura geográfica:** República Argentina.
 
+## Instalación
+
+Requiere Python 3.10 o superior.
+
+```bash
+git clone https://github.com/Aghuz2021/Poblar_ar.git
+cd Poblar-Ar
+
+python -m venv .venv
+# Windows (PowerShell):  .venv\Scripts\Activate.ps1
+# Mac/Linux:             source .venv/bin/activate
+
+pip install -r requirements.txt
+
 ## **Estructura del proyecto**
 ```text
 Poblar-Ar/
@@ -46,3 +60,5 @@ Poblar-Ar/
 ├── Logotipo poblar-AR con bandera argentina.png  # Imagen del logotipo oficial
 └── README.md          # Documentación principal del repositorio
 
+
+```
