@@ -8,7 +8,7 @@ def cargar_csv_con_pandas():
     """
     # 1. Obtener la ruta absoluta usando os
     archivo = os.path.join(
-        os.path.dirname(__file__), "..", "data", "DataSet_viajes.csv"
+        os.path.dirname(__file__), "..", "data", "bd.csv"
     )
     try:
         # 2. Leer directamente con pandas manejando el archivo de forma segura
@@ -24,3 +24,4 @@ def cargar_csv_con_pandas():
         raise IOError(
             f"[Error] Ocurrió un problema al procesar el archivo con Pandas: {e}"
         )
+
