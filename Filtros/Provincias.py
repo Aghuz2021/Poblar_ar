@@ -568,11 +568,10 @@ def Exportar_Resumen_Provincias_JSON(
             "provincias": provincias_dict,
             "metricas": metricas_dict,
         }
-
-        os.makedirs("data", exist_ok=True)
-        ruta_data = os.path.join("data", nombre_archivo)
+        ruta_data = os.path.join("Data", nombre_archivo)
         with open(ruta_data, "w", encoding="utf-8") as archivo:
             json.dump(reporte_json, archivo, ensure_ascii=False, indent=4)
+    
 
         print(f"Copia guardada en: {os.path.abspath(ruta_data)}")
 
