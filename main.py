@@ -1,14 +1,9 @@
 
 from Conexion.cargar_datos import cargar_csv_con_pandas
 from Filtros.Menu_Partido import menu_partidos
+from Filtros.Menu_Provincia import menu_provincias
 from Filtros.partido import ver_informacion_general
 from Limpieza.limpieza import limpiar_tipos_dataset
-
-
-
-
-
-
 
 def main() -> None:
 
@@ -19,7 +14,7 @@ def main() -> None:
     while True:
 
         print("\n" + "=" * 45)
-        print("       SISTEMA DE ANÁLISIS DE HABITANTES")
+        print("      PoblAr Análisis Demográfico de la República Argentina ")
         print("=" * 45)
         print("1. Por Departamento / Partidos")
         print("2. Por Provincias")
@@ -33,7 +28,7 @@ def main() -> None:
           menu_partidos(df=cargar_csv_con_pandas())
 
         elif opcion == "2":
-            print("Futura actualización: Análisis por Provincias aún no implementado.")
+            menu_provincias(df=cargar_csv_con_pandas())
             # Aquí puedes agregar la lógica para manejar la opción 2
         elif opcion == "3":
             ver_informacion_general(df)

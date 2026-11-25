@@ -55,7 +55,7 @@ def Cantidad_Partidos_Unicos(df):
     print(f"[Error en Cantidad_Partidos_Unicos]: {e}")
 
 #Total de habitantes por partido
-def TotalHabitantesPartido(df):
+def Total_Habitantes_Partido(df):
     """
     Filtra por Partido, agrupa por Nombre, suma los habitantes,
     y muestra la tabla completa con un formato visual ordenado.
@@ -87,7 +87,7 @@ def TotalHabitantesPartido(df):
         ))
         return resultado
     except Exception as e:
-        print(f"[Error en TotalHabitantesPartido]: {e}")
+        print(f"[Error en Total_Habitantes_Partido]: {e}")
 
 def Habitantes_Por_Partido(df,Partido):
     """
@@ -115,10 +115,10 @@ def Habitantes_Por_Partido(df,Partido):
         ))
         return resultado
     except Exception as e:
-        print(f"[Error en TotalHabitantesPartido]: {e}")
+        print(f"[Error en Total_Habitantes_Partido]: {e}")
 
 
-def countHabitantesPartido(df):
+def count_Habitantes_Partido(df):
     """
     Cuenta la cantidad de habitantes por partido y muestra el resultado en una tabla.
     """
@@ -154,9 +154,9 @@ def countHabitantesPartido(df):
         ))
         
     except Exception as e:
-        print(f"[Error en countHabitantesPartido]: {e}")
+        print(f"[Error en count_Habitantes_Partido]: {e}")
 
-def EstadisticasHabitantesPartido(df):
+def Estadisticas_Habitantes_Partido(df):
   """
     Filtra por Partido, agrupa por Nombre para sumar los habitantes de cada partido,
     calcula cantidad, promedio, mínimo, máximo y mediana, y muestra la tabla ordenada.
@@ -225,9 +225,9 @@ def EstadisticasHabitantesPartido(df):
     return resultado
 
   except Exception as e:
-    print(f"[Error en EstadisticasHabitantesPartido]: {e}")
+    print(f"[Error en Estadisticas_Habitantes_Partido]: {e}")
 
-def TotalVaronPartido(df):
+def Total_Varon_Partido(df):
     """
     Filtra por Partido, agrupa por Nombre, suma los habitantes,
     y muestra la tabla completa con un formato visual ordenado.
@@ -258,9 +258,9 @@ def TotalVaronPartido(df):
         showindex=False
 ))
     except Exception as e:
-        print(f"[Error en TotalVaronPartido]: {e}")
+        print(f"[Error en Total_Varon_Partido]: {e}")
 
-def TotalMujerPartido(df):
+def Total_Mujer_Partido(df):
     """
     Filtra por Partido, agrupa por Nombre, suma los habitantes,
     y muestra la tabla completa con un formato visual ordenado.
@@ -291,10 +291,10 @@ def TotalMujerPartido(df):
         showindex=False
 ))
     except Exception as e:
-        print(f"[Error en TotalMujerPartido]: {e}")
+        print(f"[Error en Total_Mujer_Partido]: {e}")
 
 
-def GraficarTop10BuenosAires(df):
+def Graficar_Top10_BuenosAires(df):
   """
     Filtra por Tipo de jurisdicción == 'Partido' (Provincia de Buenos Aires),
     agrupa por Nombre, toma el Top 10 por habitantes y muestra un gráfico de barras.
@@ -358,11 +358,11 @@ def GraficarTop10BuenosAires(df):
     plt.show()
 
   except Exception as e:
-    print(f"[Error en GraficarTop10BuenosAires]: {e}")
+    print(f"[Error en Graficar_Top10_BuenosAires]: {e}")
     
 
 
-def GraficarDistribucionGenero(df):
+def Graficar_Distribucion_Genero(df):
  try:
     datos = df.query("`Tipo de jurisdicción` == 'Partido'").copy()
 
@@ -448,9 +448,9 @@ def GraficarDistribucionGenero(df):
     return resultado
 
  except Exception as e:
-    print(f"[Error en GraficarDistribucionSexo]: {e}")
+    print(f"[Error en Graficar_Distribucion_Genero]: {e}")
 
-def ExportarResumenJSON(df, nombre_archivo="resumen_partidos.json"):
+def Exportar_Resumen_JSON(df, nombre_archivo="resumen_partidos.json"):
   """
     Filtra por Partido, agrupa por Nombre y exporta un archivo JSON con fecha/hora:
     1. Lo guarda automáticamente en la carpeta 'data/'.
@@ -579,4 +579,4 @@ def ExportarResumenJSON(df, nombre_archivo="resumen_partidos.json"):
     return reporte_json
 
   except Exception as e:
-    print(f"[Error en ExportarResumenJSON]: {e}")
+    print(f"[Error en Exportar_Resumen_JSON]: {e}")

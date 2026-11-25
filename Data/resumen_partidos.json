@@ -1,0 +1,694 @@
+{
+    "fecha_exportacion": "24/11/2026 21:28:44",
+    "partidos": {
+        "La Matanza": {
+            "habitantes": 1837168,
+            "Varon/Masculino": 884998,
+            "Mujer/Femenino": 952170
+        },
+        "La Plata": {
+            "habitantes": 756074,
+            "Varon/Masculino": 360198,
+            "Mujer/Femenino": 395876
+        },
+        "Lomas de Zamora": {
+            "habitantes": 685644,
+            "Varon/Masculino": 329533,
+            "Mujer/Femenino": 356111
+        },
+        "General Pueyrredón": {
+            "habitantes": 660569,
+            "Varon/Masculino": 312786,
+            "Mujer/Femenino": 347783
+        },
+        "Quilmes": {
+            "habitantes": 631774,
+            "Varon/Masculino": 303499,
+            "Mujer/Femenino": 328275
+        },
+        "Almirante Brown": {
+            "habitantes": 583209,
+            "Varon/Masculino": 281639,
+            "Mujer/Femenino": 301570
+        },
+        "Merlo": {
+            "habitantes": 581484,
+            "Varon/Masculino": 282086,
+            "Mujer/Femenino": 299398
+        },
+        "Moreno": {
+            "habitantes": 575758,
+            "Varon/Masculino": 281310,
+            "Mujer/Femenino": 294448
+        },
+        "Florencio Varela": {
+            "habitantes": 488103,
+            "Varon/Masculino": 238722,
+            "Mujer/Femenino": 249381
+        },
+        "Lanús": {
+            "habitantes": 460081,
+            "Varon/Masculino": 217959,
+            "Mujer/Femenino": 242122
+        },
+        "Tigre": {
+            "habitantes": 446291,
+            "Varon/Masculino": 216515,
+            "Mujer/Femenino": 229776
+        },
+        "General San Martín": {
+            "habitantes": 444503,
+            "Varon/Masculino": 212047,
+            "Mujer/Femenino": 232456
+        },
+        "Pilar": {
+            "habitantes": 393614,
+            "Varon/Masculino": 192736,
+            "Mujer/Femenino": 200878
+        },
+        "Avellaneda": {
+            "habitantes": 366117,
+            "Varon/Masculino": 173001,
+            "Mujer/Femenino": 193116
+        },
+        "Tres de Febrero": {
+            "habitantes": 362319,
+            "Varon/Masculino": 172229,
+            "Mujer/Femenino": 190090
+        },
+        "Berazategui": {
+            "habitantes": 358328,
+            "Varon/Masculino": 173130,
+            "Mujer/Femenino": 185198
+        },
+        "Malvinas Argentinas": {
+            "habitantes": 349401,
+            "Varon/Masculino": 169851,
+            "Mujer/Femenino": 179550
+        },
+        "Esteban Echeverría": {
+            "habitantes": 337880,
+            "Varon/Masculino": 163736,
+            "Mujer/Femenino": 174144
+        },
+        "Bahía Blanca": {
+            "habitantes": 334505,
+            "Varon/Masculino": 160184,
+            "Mujer/Femenino": 174321
+        },
+        "Morón": {
+            "habitantes": 329517,
+            "Varon/Masculino": 156202,
+            "Mujer/Femenino": 173315
+        },
+        "San Miguel": {
+            "habitantes": 327650,
+            "Varon/Masculino": 158310,
+            "Mujer/Femenino": 169340
+        },
+        "José C. Paz": {
+            "habitantes": 326527,
+            "Varon/Masculino": 159227,
+            "Mujer/Femenino": 167300
+        },
+        "San Isidro": {
+            "habitantes": 295978,
+            "Varon/Masculino": 139215,
+            "Mujer/Femenino": 156763
+        },
+        "Vicente López": {
+            "habitantes": 280541,
+            "Varon/Masculino": 131031,
+            "Mujer/Femenino": 149510
+        },
+        "Escobar": {
+            "habitantes": 256071,
+            "Varon/Masculino": 125731,
+            "Mujer/Femenino": 130340
+        },
+        "Ezeiza": {
+            "habitantes": 198620,
+            "Varon/Masculino": 96909,
+            "Mujer/Femenino": 101711
+        },
+        "Hurlingham": {
+            "habitantes": 185361,
+            "Varon/Masculino": 88990,
+            "Mujer/Femenino": 96371
+        },
+        "Ituzaingó": {
+            "habitantes": 177983,
+            "Varon/Masculino": 85154,
+            "Mujer/Femenino": 92829
+        },
+        "San Fernando": {
+            "habitantes": 171099,
+            "Varon/Masculino": 81610,
+            "Mujer/Femenino": 89489
+        },
+        "San Nicolás": {
+            "habitantes": 166657,
+            "Varon/Masculino": 80578,
+            "Mujer/Femenino": 86079
+        },
+        "Tandil": {
+            "habitantes": 144678,
+            "Varon/Masculino": 69526,
+            "Mujer/Femenino": 75152
+        },
+        "General Rodríguez": {
+            "habitantes": 142315,
+            "Varon/Masculino": 70186,
+            "Mujer/Femenino": 72129
+        },
+        "Zárate": {
+            "habitantes": 131415,
+            "Varon/Masculino": 64142,
+            "Mujer/Femenino": 67273
+        },
+        "Olavarría": {
+            "habitantes": 122011,
+            "Varon/Masculino": 58856,
+            "Mujer/Femenino": 63155
+        },
+        "Pergamino": {
+            "habitantes": 114988,
+            "Varon/Masculino": 55070,
+            "Mujer/Femenino": 59918
+        },
+        "Luján": {
+            "habitantes": 110111,
+            "Varon/Masculino": 53069,
+            "Mujer/Femenino": 57042
+        },
+        "Campana": {
+            "habitantes": 107976,
+            "Varon/Masculino": 52910,
+            "Mujer/Femenino": 55066
+        },
+        "Presidente Perón": {
+            "habitantes": 101994,
+            "Varon/Masculino": 49950,
+            "Mujer/Femenino": 52044
+        },
+        "Necochea": {
+            "habitantes": 101483,
+            "Varon/Masculino": 48459,
+            "Mujer/Femenino": 53024
+        },
+        "Junín": {
+            "habitantes": 100964,
+            "Varon/Masculino": 48301,
+            "Mujer/Femenino": 52663
+        },
+        "Berisso": {
+            "habitantes": 100685,
+            "Varon/Masculino": 48345,
+            "Mujer/Femenino": 52340
+        },
+        "La Costa": {
+            "habitantes": 100400,
+            "Varon/Masculino": 48646,
+            "Mujer/Femenino": 51754
+        },
+        "San Vicente": {
+            "habitantes": 97929,
+            "Varon/Masculino": 47985,
+            "Mujer/Femenino": 49944
+        },
+        "Azul": {
+            "habitantes": 75152,
+            "Varon/Masculino": 36250,
+            "Mujer/Femenino": 38902
+        },
+        "Mercedes": {
+            "habitantes": 71002,
+            "Varon/Masculino": 34179,
+            "Mujer/Femenino": 36823
+        },
+        "Chivilcoy": {
+            "habitantes": 70554,
+            "Varon/Masculino": 33722,
+            "Mujer/Femenino": 36832
+        },
+        "Cañuelas": {
+            "habitantes": 70542,
+            "Varon/Masculino": 34633,
+            "Mujer/Femenino": 35909
+        },
+        "San Pedro": {
+            "habitantes": 68353,
+            "Varon/Masculino": 33285,
+            "Mujer/Femenino": 35068
+        },
+        "Coronel de Marina Leonardo Rosales": {
+            "habitantes": 65823,
+            "Varon/Masculino": 31673,
+            "Mujer/Femenino": 34150
+        },
+        "Marcos Paz": {
+            "habitantes": 64761,
+            "Varon/Masculino": 31746,
+            "Mujer/Femenino": 33015
+        },
+        "Ensenada": {
+            "habitantes": 63978,
+            "Varon/Masculino": 30979,
+            "Mujer/Femenino": 32999
+        },
+        "Tres Arroyos": {
+            "habitantes": 61889,
+            "Varon/Masculino": 30105,
+            "Mujer/Femenino": 31784
+        },
+        "Chacabuco": {
+            "habitantes": 52409,
+            "Varon/Masculino": 25390,
+            "Mujer/Femenino": 27019
+        },
+        "9 de Julio": {
+            "habitantes": 52366,
+            "Varon/Masculino": 25188,
+            "Mujer/Femenino": 27178
+        },
+        "Trenque Lauquen": {
+            "habitantes": 49128,
+            "Varon/Masculino": 24092,
+            "Mujer/Femenino": 25036
+        },
+        "Balcarce": {
+            "habitantes": 48516,
+            "Varon/Masculino": 23595,
+            "Mujer/Femenino": 24921
+        },
+        "Bragado": {
+            "habitantes": 46227,
+            "Varon/Masculino": 22401,
+            "Mujer/Femenino": 23826
+        },
+        "General Alvarado": {
+            "habitantes": 45307,
+            "Varon/Masculino": 21998,
+            "Mujer/Femenino": 23309
+        },
+        "Lincoln": {
+            "habitantes": 45191,
+            "Varon/Masculino": 22015,
+            "Mujer/Femenino": 23176
+        },
+        "Pehuajó": {
+            "habitantes": 44594,
+            "Varon/Masculino": 21421,
+            "Mujer/Femenino": 23173
+        },
+        "Chascomús": {
+            "habitantes": 42191,
+            "Varon/Masculino": 20511,
+            "Mujer/Femenino": 21680
+        },
+        "Coronel Suárez": {
+            "habitantes": 41713,
+            "Varon/Masculino": 20297,
+            "Mujer/Femenino": 21416
+        },
+        "Lobos": {
+            "habitantes": 41418,
+            "Varon/Masculino": 19955,
+            "Mujer/Femenino": 21463
+        },
+        "Exaltación de la Cruz": {
+            "habitantes": 40036,
+            "Varon/Masculino": 19789,
+            "Mujer/Femenino": 20247
+        },
+        "Ramallo": {
+            "habitantes": 39648,
+            "Varon/Masculino": 19426,
+            "Mujer/Femenino": 20222
+        },
+        "Salto": {
+            "habitantes": 39257,
+            "Varon/Masculino": 19219,
+            "Mujer/Femenino": 20038
+        },
+        "Pinamar": {
+            "habitantes": 39224,
+            "Varon/Masculino": 19407,
+            "Mujer/Femenino": 19817
+        },
+        "Baradero": {
+            "habitantes": 39223,
+            "Varon/Masculino": 19118,
+            "Mujer/Femenino": 20105
+        },
+        "Patagones": {
+            "habitantes": 37499,
+            "Varon/Masculino": 18456,
+            "Mujer/Femenino": 19043
+        },
+        "Villa Gesell": {
+            "habitantes": 37325,
+            "Varon/Masculino": 18083,
+            "Mujer/Femenino": 19242
+        },
+        "Bolívar": {
+            "habitantes": 37194,
+            "Varon/Masculino": 17906,
+            "Mujer/Femenino": 19288
+        },
+        "Saladillo": {
+            "habitantes": 35423,
+            "Varon/Masculino": 17251,
+            "Mujer/Femenino": 18172
+        },
+        "25 de Mayo": {
+            "habitantes": 35411,
+            "Varon/Masculino": 17184,
+            "Mujer/Femenino": 18227
+        },
+        "General Villegas": {
+            "habitantes": 35055,
+            "Varon/Masculino": 17346,
+            "Mujer/Femenino": 17709
+        },
+        "Mar Chiquita": {
+            "habitantes": 32973,
+            "Varon/Masculino": 16330,
+            "Mujer/Femenino": 16643
+        },
+        "Villarino": {
+            "habitantes": 32552,
+            "Varon/Masculino": 16371,
+            "Mujer/Femenino": 16181
+        },
+        "Brandsen": {
+            "habitantes": 32350,
+            "Varon/Masculino": 15801,
+            "Mujer/Femenino": 16549
+        },
+        "Arrecifes": {
+            "habitantes": 32077,
+            "Varon/Masculino": 15440,
+            "Mujer/Femenino": 16637
+        },
+        "Dolores": {
+            "habitantes": 31405,
+            "Varon/Masculino": 15129,
+            "Mujer/Femenino": 16276
+        },
+        "Colón": {
+            "habitantes": 27406,
+            "Varon/Masculino": 13317,
+            "Mujer/Femenino": 14089
+        },
+        "Las Flores": {
+            "habitantes": 27136,
+            "Varon/Masculino": 13044,
+            "Mujer/Femenino": 14092
+        },
+        "San Antonio de Areco": {
+            "habitantes": 26695,
+            "Varon/Masculino": 12978,
+            "Mujer/Femenino": 13717
+        },
+        "San Andrés de Giles": {
+            "habitantes": 26399,
+            "Varon/Masculino": 13095,
+            "Mujer/Femenino": 13304
+        },
+        "Rojas": {
+            "habitantes": 25619,
+            "Varon/Masculino": 12419,
+            "Mujer/Femenino": 13200
+        },
+        "Monte": {
+            "habitantes": 24616,
+            "Varon/Masculino": 12003,
+            "Mujer/Femenino": 12613
+        },
+        "Coronel Pringles": {
+            "habitantes": 24110,
+            "Varon/Masculino": 11575,
+            "Mujer/Femenino": 12535
+        },
+        "Carlos Casares": {
+            "habitantes": 22905,
+            "Varon/Masculino": 11151,
+            "Mujer/Femenino": 11754
+        },
+        "Magdalena": {
+            "habitantes": 22653,
+            "Varon/Masculino": 11161,
+            "Mujer/Femenino": 11492
+        },
+        "General Juan Madariaga": {
+            "habitantes": 22566,
+            "Varon/Masculino": 10816,
+            "Mujer/Femenino": 11750
+        },
+        "General Viamonte": {
+            "habitantes": 22530,
+            "Varon/Masculino": 10865,
+            "Mujer/Femenino": 11665
+        },
+        "Ayacucho": {
+            "habitantes": 21757,
+            "Varon/Masculino": 10646,
+            "Mujer/Femenino": 11111
+        },
+        "Saavedra": {
+            "habitantes": 21407,
+            "Varon/Masculino": 10427,
+            "Mujer/Femenino": 10980
+        },
+        "Benito Juárez": {
+            "habitantes": 21185,
+            "Varon/Masculino": 10379,
+            "Mujer/Femenino": 10806
+        },
+        "General Belgrano": {
+            "habitantes": 20674,
+            "Varon/Masculino": 9979,
+            "Mujer/Femenino": 10695
+        },
+        "Navarro": {
+            "habitantes": 19888,
+            "Varon/Masculino": 9781,
+            "Mujer/Femenino": 10107
+        },
+        "Rivadavia": {
+            "habitantes": 19735,
+            "Varon/Masculino": 9789,
+            "Mujer/Femenino": 9946
+        },
+        "Daireaux": {
+            "habitantes": 18328,
+            "Varon/Masculino": 8987,
+            "Mujer/Femenino": 9341
+        },
+        "Lobería": {
+            "habitantes": 18106,
+            "Varon/Masculino": 8971,
+            "Mujer/Femenino": 9135
+        },
+        "General Las Heras": {
+            "habitantes": 17980,
+            "Varon/Masculino": 8722,
+            "Mujer/Femenino": 9258
+        },
+        "Carmen de Areco": {
+            "habitantes": 17345,
+            "Varon/Masculino": 8614,
+            "Mujer/Femenino": 8731
+        },
+        "Adolfo Alsina": {
+            "habitantes": 17344,
+            "Varon/Masculino": 8634,
+            "Mujer/Femenino": 8710
+        },
+        "Leandro N. Alem": {
+            "habitantes": 17153,
+            "Varon/Masculino": 8382,
+            "Mujer/Femenino": 8771
+        },
+        "Rauch": {
+            "habitantes": 16491,
+            "Varon/Masculino": 8168,
+            "Mujer/Femenino": 8323
+        },
+        "Puan": {
+            "habitantes": 16391,
+            "Varon/Masculino": 8024,
+            "Mujer/Femenino": 8367
+        },
+        "General Arenales": {
+            "habitantes": 16231,
+            "Varon/Masculino": 7920,
+            "Mujer/Femenino": 8311
+        },
+        "Capitán Sarmiento": {
+            "habitantes": 15882,
+            "Varon/Masculino": 7676,
+            "Mujer/Femenino": 8206
+        },
+        "Coronel Dorrego": {
+            "habitantes": 15795,
+            "Varon/Masculino": 7700,
+            "Mujer/Femenino": 8095
+        },
+        "Tornquist": {
+            "habitantes": 14591,
+            "Varon/Masculino": 7165,
+            "Mujer/Femenino": 7426
+        },
+        "General Paz": {
+            "habitantes": 14141,
+            "Varon/Masculino": 6938,
+            "Mujer/Femenino": 7203
+        },
+        "Carlos Tejedor": {
+            "habitantes": 14007,
+            "Varon/Masculino": 6966,
+            "Mujer/Femenino": 7041
+        },
+        "Roque Pérez": {
+            "habitantes": 13901,
+            "Varon/Masculino": 6784,
+            "Mujer/Femenino": 7117
+        },
+        "Alberti": {
+            "habitantes": 12906,
+            "Varon/Masculino": 6255,
+            "Mujer/Femenino": 6651
+        },
+        "Adolfo Gonzales Chaves": {
+            "habitantes": 12847,
+            "Varon/Masculino": 6281,
+            "Mujer/Femenino": 6566
+        },
+        "General Pinto": {
+            "habitantes": 12842,
+            "Varon/Masculino": 6321,
+            "Mujer/Femenino": 6521
+        },
+        "Punta Indio": {
+            "habitantes": 12161,
+            "Varon/Masculino": 5986,
+            "Mujer/Femenino": 6175
+        },
+        "Suipacha": {
+            "habitantes": 11736,
+            "Varon/Masculino": 5729,
+            "Mujer/Femenino": 6007
+        },
+        "Guaminí": {
+            "habitantes": 11662,
+            "Varon/Masculino": 5779,
+            "Mujer/Femenino": 5883
+        },
+        "General La Madrid": {
+            "habitantes": 11535,
+            "Varon/Masculino": 5633,
+            "Mujer/Femenino": 5902
+        },
+        "Laprida": {
+            "habitantes": 11496,
+            "Varon/Masculino": 5553,
+            "Mujer/Femenino": 5943
+        },
+        "Maipú": {
+            "habitantes": 11253,
+            "Varon/Masculino": 5391,
+            "Mujer/Femenino": 5862
+        },
+        "Florentino Ameghino": {
+            "habitantes": 10759,
+            "Varon/Masculino": 5290,
+            "Mujer/Femenino": 5469
+        },
+        "Tapalqué": {
+            "habitantes": 10695,
+            "Varon/Masculino": 5255,
+            "Mujer/Femenino": 5440
+        },
+        "Hipólito Yrigoyen": {
+            "habitantes": 10581,
+            "Varon/Masculino": 5214,
+            "Mujer/Femenino": 5367
+        },
+        "General Alvear": {
+            "habitantes": 10150,
+            "Varon/Masculino": 5002,
+            "Mujer/Femenino": 5148
+        },
+        "Castelli": {
+            "habitantes": 9551,
+            "Varon/Masculino": 4689,
+            "Mujer/Femenino": 4862
+        },
+        "Salliqueló": {
+            "habitantes": 9344,
+            "Varon/Masculino": 4594,
+            "Mujer/Femenino": 4750
+        },
+        "Tres Lomas": {
+            "habitantes": 9090,
+            "Varon/Masculino": 4526,
+            "Mujer/Femenino": 4564
+        },
+        "San Cayetano": {
+            "habitantes": 8918,
+            "Varon/Masculino": 4385,
+            "Mujer/Femenino": 4533
+        },
+        "Monte Hermoso": {
+            "habitantes": 8444,
+            "Varon/Masculino": 4189,
+            "Mujer/Femenino": 4255
+        },
+        "Pellegrini": {
+            "habitantes": 7112,
+            "Varon/Masculino": 3481,
+            "Mujer/Femenino": 3631
+        },
+        "Lezama": {
+            "habitantes": 6170,
+            "Varon/Masculino": 2990,
+            "Mujer/Femenino": 3180
+        },
+        "General Lavalle": {
+            "habitantes": 4846,
+            "Varon/Masculino": 2395,
+            "Mujer/Femenino": 2451
+        },
+        "Pila": {
+            "habitantes": 4615,
+            "Varon/Masculino": 2272,
+            "Mujer/Femenino": 2343
+        },
+        "General Guido": {
+            "habitantes": 3157,
+            "Varon/Masculino": 1572,
+            "Mujer/Femenino": 1585
+        },
+        "Tordillo": {
+            "habitantes": 2528,
+            "Varon/Masculino": 1309,
+            "Mujer/Femenino": 1219
+        }
+    },
+    "metricas": {
+        "Cantidad de Partidos": 135,
+        "Total Habitantes": 17408906,
+        "Promedio de Habitantes": 128954.86,
+        "Mínimo de Habitantes": 2528,
+        "Partido con Mínimo Habitantes": "Tordillo",
+        "Máximo de Habitantes": 1837168,
+        "Partido con Máximo Habitantes": "La Matanza",
+        "Mediana de Habitantes": 39223.0,
+        "Total Varon/Masculino": 8393419,
+        "Total Mujer/Femenino": 9015487,
+        "Porcentaje Varon/Masculino": 48.21,
+        "Porcentaje Mujer/Femenino": 51.79
+    }
+}

@@ -1,14 +1,14 @@
 from Filtros.partido import (
     Cantidad_Partidos_Unicos,
-    EstadisticasHabitantesPartido,
-    ExportarResumenJSON,
-    GraficarDistribucionGenero,
-    GraficarTop10BuenosAires,
+    Estadisticas_Habitantes_Partido,
+    Exportar_Resumen_JSON,
+    Graficar_Distribucion_Genero,
+    Graficar_Top10_BuenosAires,
     Habitantes_Por_Partido,
-    TotalHabitantesPartido,
-    TotalMujerPartido,
-    TotalVaronPartido,
-    countHabitantesPartido,
+    Total_Habitantes_Partido,
+    Total_Mujer_Partido,
+    Total_Varon_Partido,
+    count_Habitantes_Partido,
 )
 
 
@@ -49,10 +49,10 @@ def menu_partidos(df) -> None:
     print()
 
     if opcion == "1.1":
-      TotalHabitantesPartido(df)
+      Total_Habitantes_Partido(df)
       pausar()
     elif opcion == "1.2":
-      countHabitantesPartido(df)
+      count_Habitantes_Partido(df)
       pausar()
     elif opcion == "1.3":
       partido = input("Ingrese el nombre del partido (ej. La Plata): ").strip()
@@ -63,23 +63,23 @@ def menu_partidos(df) -> None:
         print("Debe ingresar un nombre de partido válido.")
       pausar()
     elif opcion == "1.4":
-      GraficarTop10BuenosAires(df)
+      Graficar_Top10_BuenosAires(df)
     elif opcion == "1.5":
-      EstadisticasHabitantesPartido(df)
+      Estadisticas_Habitantes_Partido(df)
       pausar()
     elif opcion == "2.1":
-      TotalVaronPartido(df)
+      Total_Varon_Partido(df)
       pausar()
     elif opcion == "2.2":
-      TotalMujerPartido(df)
+      Total_Mujer_Partido(df)
       pausar()
     elif opcion == "2.3":
-      GraficarDistribucionGenero(df)
+      Graficar_Distribucion_Genero(df)
     elif opcion == "3":
       Cantidad_Partidos_Unicos(df)
       pausar()
     elif opcion == "4":
-      ExportarResumenJSON(df)
+      Exportar_Resumen_JSON(df)
       pausar()
     elif opcion == "0":
       print("Volviendo al menú principal...")

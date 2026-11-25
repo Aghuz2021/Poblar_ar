@@ -1,0 +1,134 @@
+{
+    "fecha_exportacion": "24/11/2026 20:28:44",
+    "provincias": {
+        "Buenos Aires": {
+            "habitantes": 17408906,
+            "Varon/Masculino": 8393419,
+            "Mujer/Femenino": 9015487
+        },
+        "Córdoba": {
+            "habitantes": 3812064,
+            "Varon/Masculino": 1838815,
+            "Mujer/Femenino": 1973249
+        },
+        "Santa Fe": {
+            "habitantes": 3519059,
+            "Varon/Masculino": 1695274,
+            "Mujer/Femenino": 1823785
+        },
+        "Mendoza": {
+            "habitantes": 2030773,
+            "Varon/Masculino": 980720,
+            "Mujer/Femenino": 1050053
+        },
+        "Tucumán": {
+            "habitantes": 1727337,
+            "Varon/Masculino": 836700,
+            "Mujer/Femenino": 890637
+        },
+        "Salta": {
+            "habitantes": 1434225,
+            "Varon/Masculino": 696842,
+            "Mujer/Femenino": 737383
+        },
+        "Entre Ríos": {
+            "habitantes": 1415097,
+            "Varon/Masculino": 687336,
+            "Mujer/Femenino": 727761
+        },
+        "Misiones": {
+            "habitantes": 1273347,
+            "Varon/Masculino": 622211,
+            "Mujer/Femenino": 651136
+        },
+        "Corrientes": {
+            "habitantes": 1209671,
+            "Varon/Masculino": 586788,
+            "Mujer/Femenino": 622883
+        },
+        "Chaco": {
+            "habitantes": 1124603,
+            "Varon/Masculino": 543912,
+            "Mujer/Femenino": 580691
+        },
+        "Santiago del Estero": {
+            "habitantes": 1057752,
+            "Varon/Masculino": 519158,
+            "Mujer/Femenino": 538594
+        },
+        "San Juan": {
+            "habitantes": 819445,
+            "Varon/Masculino": 398601,
+            "Mujer/Femenino": 420844
+        },
+        "Jujuy": {
+            "habitantes": 809364,
+            "Varon/Masculino": 391745,
+            "Mujer/Femenino": 417619
+        },
+        "Río Negro": {
+            "habitantes": 747697,
+            "Varon/Masculino": 364886,
+            "Mujer/Femenino": 382811
+        },
+        "Neuquén": {
+            "habitantes": 708578,
+            "Varon/Masculino": 347552,
+            "Mujer/Femenino": 361026
+        },
+        "Formosa": {
+            "habitantes": 605507,
+            "Varon/Masculino": 295291,
+            "Mujer/Femenino": 310216
+        },
+        "Chubut": {
+            "habitantes": 589454,
+            "Varon/Masculino": 289292,
+            "Mujer/Femenino": 300162
+        },
+        "San Luis": {
+            "habitantes": 540548,
+            "Varon/Masculino": 264306,
+            "Mujer/Femenino": 276242
+        },
+        "Catamarca": {
+            "habitantes": 427625,
+            "Varon/Masculino": 209088,
+            "Mujer/Femenino": 218537
+        },
+        "La Rioja": {
+            "habitantes": 382453,
+            "Varon/Masculino": 186266,
+            "Mujer/Femenino": 196187
+        },
+        "La Pampa": {
+            "habitantes": 359193,
+            "Varon/Masculino": 176291,
+            "Mujer/Femenino": 182902
+        },
+        "Santa Cruz": {
+            "habitantes": 335677,
+            "Varon/Masculino": 165865,
+            "Mujer/Femenino": 169812
+        },
+        "Tierra del Fuego": {
+            "habitantes": 184958,
+            "Varon/Masculino": 91742,
+            "Mujer/Femenino": 93216
+        }
+    },
+    "metricas": {
+        "Cantidad de Provincias": 23,
+        "Total Habitantes": 45618787,
+        "Promedio de Habitantes": 1848840.57,
+        "Mínimo de Habitantes": 184958,
+        "Provincia con Mínimo Habitantes": "Tierra del Fuego",
+        "Máximo de Habitantes": 17408906,
+        "Provincia con Máximo Habitantes": "Buenos Aires",
+        "Mediana de Habitantes": 819445.0,
+        "Total Varon/Masculino": 20582100,
+        "Total Mujer/Femenino": 21941233,
+        "Porcentaje Varon/Masculino": 45.12,
+        "Porcentaje Mujer/Femenino": 48.1
+    }
+}
